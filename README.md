@@ -6,3 +6,5 @@ Yang, F.; Choi, Y.; Lee, H. Convergence or Divergence? Emission Performance in t
 
 Please cite the paper if you find those resources helpful.
 
+Should you have any questions related to the paper, please contact the first author, Fan Yang, at yangf1995@gmail.com or sheepandsheep@163.com
+
